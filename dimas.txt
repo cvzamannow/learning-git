@@ -1,0 +1,5 @@
+Nama:dimas
+Umur:15
+Asal kota:karanganyar
+Asal sekolah:SMK 2 karanganyar
+Jenis kelamin: Laki-laki
